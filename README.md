@@ -38,3 +38,6 @@ class: Technical Writing
 # Instructions-Paragraph
 
 A good experience I had with an instruction manual was when putting together a shelf from ikea. The instructions were clearly laid out and had numbered steps that were large and easy to follow. The instructions also clearly labeled each indivudual piece and the direction each piece should be facing, as well as includeing clear figures of the entire process.
+
+# Specific Expertise 
+I know alot about animals and agriculture specifically beef cattle. I have owned beef cattle, chickens, goats, dogs, cats my entire life and have always enjoyed caring for and learning more about each animal.I can go fairly in depth and technical an all of these topics. I can tell vaccinations and how to vaccinate, feeds, when to breed etc.  However, I would'nt really classify myslf as an "expert" in any specific area but I do know more about these areas than the average person/people not involved in agriculture. 
